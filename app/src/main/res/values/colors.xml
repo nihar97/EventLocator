@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="intro1">#c0392b</color>
+    <color name="intro2">#1abc9c</color>
+    <color name="intro3">#2980b9</color>
+    <color name="tile1">#00897B</color>
+    <color name="tile2">#01579B</color>
+    <color name="tile3">#CDDC39</color>
+    <color name="tile4">#e53935</color>
+    <color name="tile5">#AD1457</color>
+    <color name="tile6">#455A64</color>
+    <color name="activity_background">#2c3e50</color>
+    <color name="thumb_color">#03A9F4</color>
+    <color name="bar_color">#9603a9f4</color>
+    <color name="bar_highlight_color">#df03a9f4</color>
+    <color name="airbnb_blue">#00A699</color>
+    <color name="hoop_yellow">#ffee58</color>
+    <color name="white">#FFF</color>
+</resources>
